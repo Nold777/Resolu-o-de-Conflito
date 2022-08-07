@@ -1,2 +1,2 @@
-# Resolu-o-de-Conflito
+# Resolucao de Conflito
 Webinar atividade
